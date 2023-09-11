@@ -91,7 +91,6 @@ public class ContactDatabase {
 
                 case 8:
                     System.out.println("Exiting the program.");
-                    in.close(); // Close the Scanner
                     System.exit(0);
 
                 default:
